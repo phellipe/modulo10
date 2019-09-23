@@ -2,6 +2,7 @@ import React from 'react';
 import { Text } from 'react-native';
 
 import Background from '~/components/Background';
+// eslint-disable-next-line import/no-named-as-default
 import Input from '~/components/Input';
 // import { Container } from './styles';
 
